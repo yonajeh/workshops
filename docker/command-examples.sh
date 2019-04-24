@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Build with defaults
 docker build .
 
@@ -37,6 +39,7 @@ docker logs web-client
 
 # Mount a volume / folder inside a container in order to be used there
 # Note: the anti-slash / back-slash is used to tell to bash that the command has multiple lines
+# Note: `pwd` command returns the current path, it can be replaced by an actual path from host system
 docker run \
 --detach \
 --name web-client \
@@ -53,7 +56,7 @@ curl http://localhost:7777/index3.html
 docker stop web-client
 docker start web-client
 
-# Just kill the process inside a container
+# Just kill the process inside a container and send a sigkill signal for a controller stop
 docker kill -s SIGKILL web-client
 docker kill -s SIGHUP web-client
 
