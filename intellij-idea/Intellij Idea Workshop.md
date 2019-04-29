@@ -115,7 +115,8 @@
     - Can be configured at project level and IDE level
     - By default has one integrated
     - If you change version of a plugin in pom.xml - Check the logs, IDEA could use the previous version of it
-
+    - `Preferences - Build, Execution, Deployment - Build Tools - Maven - Ignored Files` - be aware of this list
+    
 1. **Plugin:** .ignore
     - Help manage `.ignore` files
     - With highlight support
