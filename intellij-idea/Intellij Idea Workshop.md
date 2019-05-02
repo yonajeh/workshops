@@ -162,6 +162,7 @@ Most of the settings described here are available on both levels
     - Group / align fields in one column and values after equals in other column
 1. **Setting:** `Editor / General Smart Keys -> Surround selection on typing quote or brace`
     - The selected text get brackets or quotes instead of replacing
+1. **Setting:** `Languages & Frameworks / SQL Resolution Scopes`
 
 ###Within IDE
 
