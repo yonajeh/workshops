@@ -129,7 +129,8 @@
     - Advanced table visualization features
     - For oracle Docker images you need to put in Username field: `sys as sysdba`
     - Tables are used for auto completion in SQL files from source code
-
+    - `Tx:` setting should be considered
+        - ![Important mention about Tx setting](db-tx-type.png)
 1. **Plugin:** Http client
     - https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html#viewingResponse
     - Supports composing of requests in a text way
