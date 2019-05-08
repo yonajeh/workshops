@@ -183,8 +183,12 @@ Most of the settings described here are available on both levels
     - have different options
     - underlined words like errors - are focused and first option of `Alt + Enter` is available by default
        - when a class is used but not imported and Idea knows it
-    1. `Alt + Enter, then Esc, then Alt + Enter` 
-    - sometimes invoking `Alt + Enter` second time gives other options
+    - `Alt + Enter, then Esc, then Alt + Enter` 
+        - sometimes invoking `Alt + Enter` second time gives other options
+    - `Cmd + F1` Details on warning
+        - when the caret is within an expression marked with warning background  
+        - pressing twice will expand to show details
+        - ![Issue details for marked expressions](Cmd+F1.png)
 1. `Ctrl + Space` Code completion
 1. `Alt + Space` Quick definition, shows the implementation of the symbol
 1. `F1` Quick documentation
