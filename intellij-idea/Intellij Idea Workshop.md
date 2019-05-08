@@ -1,31 +1,33 @@
---# IDEA Workshop
-
-## Quick tips
-
-> Official Pro Tips: https://www.jetbrains.com/help/idea/pro-tips.html.
-
-> CARET is the little blinking thing that you see when you type text.
-
-> Learn default settings, try to avoid over customization.
-
-> NoSQL has NoSupport.
-
-> Do not version IDE specific files.
-
-> In Idea placement of caret = context. And context will dictate what options will be available.
-
-> Slow intelli-sense - SSD under heavy IO ?
-
-> General caret moves work well: Cmd + Arrows, Shift + Cmd + Arrows, etc.
-
-> The easiest way to learn Idea is by using : Tip of the day from Help menu
-
-> Auto-curly braces in special blocks are added ad the end of the line or new line
+# IDEA Workshop
 
 1. When installing from scratch
     - Please do not install all plugins, it'll transform your IDE into trash
 
 ## General default behaviour
+
+1. Official Pro Tips: https://www.jetbrains.com/help/idea/pro-tips.html.
+
+1. CARET is the little blinking thing that you see when you type text.
+
+1. Learn default settings, try to avoid over customization.
+
+1. NoSQL has NoSupport.
+
+1. Do not version IDE specific files.
+
+1. In Idea placement of caret = context. And context will dictate what options will be available.
+
+1. Slow intelli-sense - SSD under heavy IO ?
+
+1. General caret moves work well: Cmd + Arrows, Shift + Cmd + Arrows, etc.
+
+1. The easiest way to learn Idea is by using : Tip of the day from Help menu
+
+1. Auto-curly braces in special blocks are added ad the end of the line or new line
+
+1. Code completion supports Quick Doc
+
+## General features
 
 1. Facets
     - https://www.jetbrains.com/help/idea/facet-page.html
@@ -156,7 +158,8 @@ Most of the settings described here are available on both levels
     - You can change content before selecting it for pasting
 1. **Setting:** `Cmd + Shift + 8` Column mode on/off 
     - `Cmd + Shift + A` type *Column mode*, hit `Enter`
-    - `Alt + Shift + Mouse Left Click` : put carets under cursor 
+    - `Alt + Shift + Mouse Left Click` : put carets under cursor
+    - `Middle click + Hold + Drag` selection, for *non-Apple mouse* users 
     - https://www.jetbrains.com/help/idea/working-with-source-code.html#multiple_cursor
     - Working with *multiple carets*
 1. **Setting:** `Editor / Code Style / Java -> Group Declarations : Align fields in columns`
