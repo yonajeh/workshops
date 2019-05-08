@@ -20,6 +20,8 @@
 
 > The easiest way to learn Idea is by using : Tip of the day from Help menu
 
+> Auto-curly braces in special blocks are added ad the end of the line or new line
+
 1. When installing from scratch
     - Please do not install all plugins, it'll transform your IDE into trash
 
