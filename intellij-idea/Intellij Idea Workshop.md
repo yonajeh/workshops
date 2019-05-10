@@ -192,6 +192,12 @@ Most of the settings described here are available on both levels
 1. `Ctrl + Space` Code completion
 1. `Alt + Space` Quick definition, shows the implementation of the symbol
 1. `F1` Quick documentation
+1. `Cmd + Alt + X then P` evaluate XML tag
+    - put caret on tag
+    - click first combination - nothing will happen
+    - then click `P` and small pop over will show up
+    - ![Evaluate XML tag](Cmd+Alt+X_then_P.png)
+
 1. `Cmd + N` New File, Class, etc.
 1. `Cmd + Shift + N` New scratch file.
 
