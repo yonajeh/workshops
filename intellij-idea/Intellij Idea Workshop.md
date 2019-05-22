@@ -1,5 +1,7 @@
 # IDEA Workshop
 
+> Note for Mac users: Alt = Option
+
 1. When installing from scratch
     - Please do not install all plugins, it'll transform your IDE into trash
 
@@ -254,11 +256,10 @@ Most of the settings described here are available on both levels
     - Move a hardcoded string or numeric value to a constant
 1. **Edit:** `Cmd + Shift + U` Change case 
 1. **Edit:** `Ctrl + Shift + V` Paste from History 
-1. **Edit:** `Cmd + Shift + ↑`(_upwards arrow_) : move element up
-1. **Edit:** `Cmd + Shift + ↓`(_downwards arrow_) : move element down
-    - The functionality is contextual
-    - Line
-    - Function
+1. **Edit:** `Cmd + Shift + ↑`(_upwards arrow_) : move **statement** up
+1. **Edit:** `Cmd + Shift + ↓`(_downwards arrow_) : move **statement** down
+1. **Edit:** `Alt + Shift + ↑`(_upwards arrow_) : move **line** up
+1. **Edit:** `Alt + Shift + ↓`(_downwards arrow_) : move **line** down
 1. **Edit:** `Cmd + Alt + L` Reformat
     - Can be applied only to selected portion
     - Can be applied to a folder
