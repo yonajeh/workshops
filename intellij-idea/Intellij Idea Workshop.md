@@ -29,6 +29,11 @@
 
 1. Code completion supports Quick Doc
 
+1. Sync settings and plugins : https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html
+     - Jetbrains account
+     - Git
+     - Export / Import
+
 ## General features
 
 1. Facets
@@ -171,7 +176,8 @@ Most of the settings described here are available on both levels
 1. **Setting:** `Editor / General Smart Keys -> Surround selection on typing quote or brace`
     - The selected text get brackets or quotes instead of replacing
 1. **Setting:** `Languages & Frameworks / SQL Resolution Scopes`
-
+1. **Setting:** `Editor / General / Appearance : Show inferred annotations inline`
+    - ![Show inferred annotations inline](show_inferred_annotations.png)
 ###Within IDE
 
 1. Bottom right corner : `4 spaces` change indentation
