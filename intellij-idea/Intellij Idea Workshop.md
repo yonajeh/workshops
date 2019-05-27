@@ -1,6 +1,6 @@
 # IDEA Workshop
 
-> Note for Mac users: Alt = Option
+> Note for Mac users: Alt = Option ⌥ 
 
 1. When installing from scratch
     - Please do not install all plugins, it'll transform your IDE into trash
@@ -107,7 +107,7 @@
 
 1. **Plugin:**  IntelliLang
     - *Auto activated*
-    - `Ant + Enter` inside the content where custom language is present
+    - `Alt + Enter` inside the content where custom language is present
     - https://www.jetbrains.com/help/idea/using-language-injections.html
     - Language injections
 
