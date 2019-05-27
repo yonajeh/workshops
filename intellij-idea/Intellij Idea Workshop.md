@@ -42,6 +42,10 @@
     - Spring
     - Works on steroids if Datasource is configured and assigned
 
+1. Schema support
+    - You can use a schema to validate and edit json and yml files
+    - ![Schema support](json-yaml-schema.png)
+
 1. Diff
     - Files from modules
     - Dirs from modules
