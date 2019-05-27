@@ -212,6 +212,10 @@ Most of the settings described here are available on both levels
 
 1. `Cmd + N` New File, Class, etc.
 1. `Cmd + Shift + N` New scratch file.
+1. `Cmd + J` Templates and Live templates support
+    - you can have **"shortcut words"** (*like keywords at IDE level*) that'll generate a code for you
+    - they can work for selected text as well on their own
+    - ![Schema support](live-templates.png)
 
 ## Navigation
 
